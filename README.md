@@ -1,8 +1,20 @@
-# Hi there 👋
+# Hi there 👋 I'm **Dulshan Alahakoon** 
 
-I'm **Dulshan Alahakoon**, a Software Engineer at Wiley Global Technology, Sri Lanka, serving the Author Services team where we streamline a seamless research publication experience for authors.
+ 
+**Software Engineer** at [Wiley Global Technology](https://www.wiley.com) - Sri Lanka  
+**Software Engineering Graduate** from [Sri Lanka Institute of Information Technology (SLIIT)](https://www.sliit.lk)
 
-- 🔭 I’m currently working on solutions to improve the publication journey for researchers and authors.
+## Connect with Me
+
+<p>
+  <a href="https://linkedin.com/in/dulshan-alahakoon"><img src="https://img.shields.io/badge/-Dulshan%20Alahakoon%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/dulshan-alahakoon" alt="LinkedIn Badge"></a> 
+  <a href="https://facebook.com/drsdreamworld97
+  /"><img src="https://img.shields.io/badge/-Dulshan Alahakoon-informational?style=plastic&amp;labelColor=informational&amp;logo=Facebook&amp;link=https://facebook.com/drsdreamworld97" alt="Facebook Badge"></a>
+</p>
+
+## Who am I?
+
+- 🔭 I’m currently working as a Software Engineer at Wiley Global Technology, Sri Lanka, serving the Author Services Team, where we enable a seamless research publication process for authors.
 - 🎓 I graduated from the Sri Lanka Institute of Information Technology with a Bachelor's Degree specializing in Software Engineering.
 - 🌱 I’m currently learning about current trends in software development, AI, new tools and technologies to enhance my technical skills.
 - 👯 I’m looking to collaborate on software solutions where I can make a positive impact on the world with my skills and expertise.
