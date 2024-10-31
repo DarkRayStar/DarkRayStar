@@ -12,4 +12,12 @@ I'm **Dulshan Alahakoon**, a Software Engineer at Wiley Global Technology, Sri L
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy karaoke singing and love belting out my favorite songs with friends—it’s always a great way to unwind and have fun!
 
+##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DarkRayStar)](https://git.io/streak-stats)
+
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DarkRayStar&show_icons=true" />
+</details>
+
 Looking forward to connecting and exploring new ideas together!
